@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.1.2"
+  },
+  "name": "ob_m3_t10_e1",
+  "description": "## Tema 10: gestión de módulos. Ejercicio 1.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/js/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
